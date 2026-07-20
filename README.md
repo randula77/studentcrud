@@ -2,11 +2,11 @@
 
 ## Student Details
 
-Name: Your Name
+Name: Randula Revindi
 
-Registration Number: ITXXXXXXXX
+Registration Number: 244184L
 
-Group: XX
+Group: 244184L
 
 ## Project Title
 
